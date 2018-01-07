@@ -1,6 +1,6 @@
 repo_path = ektar
 
-name = linux-ldap
+name = conda-term
 ver = $(shell cat VERSION)
 
 ifdef http_proxy
