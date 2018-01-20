@@ -1,4 +1,4 @@
-from ektar/linux-ldap:v1.1.5
+from ektar/linux-ldap:v1.1.7
 MAINTAINER eric@ds-do.com
 
 RUN echo 'export PATH=/opt/conda/bin:$PATH' > /etc/profile.d/conda.sh && \
